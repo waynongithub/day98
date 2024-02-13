@@ -1,0 +1,19 @@
+Date/Time,Transaction,Ref. No.,Back Date,Withdrawal,Deposit,Outstanding Balance,Channel,Description
+11/10/2023 20:40:58,Spending,8722496770,,"3,650.00",,"93,390.20",POS,From Card No. 8722496770
+13/10/2023 11:17:45,Spending,8722496770,,187.00,,"93,203.20",POS,From Card No. 8722496770
+22/10/2023 17:09:07,Spending,8722496770,,"5,000.00",,"88,203.20",ATM,Cash Withdrawal via BBL ATM
+24/10/2023 08:46:10,Spending,,17/10/2023 00:00:00,,187.00,"88,390.20",ACH,
+30/10/2023 10:08:06,Spending,8722496770,,"1,183.61",,"87,206.59",POS,From Card No. 8722496770
+02/11/2023 12:04:23,Spending,8722496770,,"10,000.00",,"77,206.59",ATM,Cash Withdrawal via BAY ATM
+06/11/2023 15:45:56,Spending,8722496770,,"5,000.00",,"72,206.59",ATM,Cash Withdrawal via SCB ATM
+22/11/2023 13:30:22,Spending,8722496770,,"4,875.35",,"67,331.24",POS,From Card No. 8722496770
+22/11/2023 13:48:45,Transfer Deposit,6901940886,,,"39,445.96","106,777.20",INTERNET,"KKP From Acc No. : X940886"
+22/11/2023 16:47:30,Transfer Deposit,8722496770,,312.00,,"106,465.20",POS,From Card No. 8722496770
+23/11/2023 15:44:09,Transfer Deposit,8722496770,,"30,000.00",,"76,465.20",ATM,Cash Withdrawal via BAY ATM
+24/11/2023 08:37:49,Transfer Deposit,,22/11/2023 00:00:00,5.54,,"76,459.66",ACH,
+01/12/2023 13:17:39,Transfer Deposit,8722496770,,"1,510.00",,"74,949.66",POS,From Card No. 8722496770
+04/12/2023 11:59:08,Transfer Deposit,8722496770,,"10,000.00",,"64,949.66",ATM,Cash Withdrawal via BAY ATM
+15/12/2023 23:01:08,Transfer Deposit,8722496770,,"11,640.88",,"53,308.78",POS,From Card No. 8722496770
+27/12/2023 00:00:00,Transfer Deposit,,,,113.08,"53,421.86",,
+27/12/2023 00:00:00,Transfer Deposit,,,16.96,,"53,404.90",,
+03/01/2024 12:09:22,Transfer Deposit,8722496770,,"12,000.00",,"41,404.90",ATM,Cash Withdrawal via BAY ATM

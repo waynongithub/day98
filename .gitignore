@@ -1,0 +1,7 @@
+.git/
+.idea
+venv/
+.ipynb_checkpoints/
+__*
+2018_Squirrel_Data.csv df_to_import.csv merged.csv merged_uniq.csv TestStatement1.csv TestStatement2.csv weather_data.csv
+*.zip

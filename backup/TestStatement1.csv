@@ -1,0 +1,7 @@
+Date/Time,Transaction,Ref. No.,Back Date,Withdrawal,Deposit,Outstanding Balance,Channel,Description
+11/10/2023 20:40:58,Spending,8722496770,,"3,650.00",,"93,390.20",POS,From Card No. 8722496770
+13/10/2023 11:17:45,Spending,8722496770,,187.00,,"93,203.20",POS,From Card No. 8722496770
+22/10/2023 17:09:07,Spending,8722496770,,"5,000.00",,"88,203.20",ATM,Cash Withdrawal via BBL ATM
+24/10/2023 08:46:10,Spending,,17/10/2023 00:00:00,,187.00,"88,390.20",ACH,
+30/10/2023 10:08:06,Spending,8722496770,,"1,183.61",,"87,206.59",POS,From Card No. 8722496770
+02/11/2023 12:04:23,Spending,8722496770,,"10,000.00",,"77,206.59",ATM,Cash Withdrawal via BAY ATM
